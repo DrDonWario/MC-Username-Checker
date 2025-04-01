@@ -67,7 +67,7 @@ When rate limit is reached (HTTP 429), you have three options:
 ## Notes
 - The script automatically handles proxy rotation when rate limits are encountered
 - All results are logged for future reference
-<<<<<<< HEAD
+
 - Available usernames are automatically saved
-=======
+
 - Available usernames are automatically saved
