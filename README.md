@@ -71,4 +71,3 @@ When rate limit is reached (HTTP 429), you have three options:
 - Available usernames are automatically saved
 =======
 - Available usernames are automatically saved
->>>>>>> b57f9edaab8e0a4d4be97210e1e857eff16eee26
